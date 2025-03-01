@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielciciliani&label=Profile%20views&color=0e75b6&style=flat" alt="danielciciliani" /> </p>
 
-- 🔭 I’m currently working on **frontend projects as a Freelance**
+- 👨🏻‍💻 I’m currently working on **frontend projects as a Freelancer**
 
 - 🧩 I’m interested in Frontend Technologies like **Angular & React**
 
-- 👨🏻‍💻 I’m looking forward to collaborate on **incredible projects building Product**
+- 🔭 I’m looking forward to collaborate on **incredible projects building products**
 
-- 💬 Ask me about ** JavaScript | TypeScript | Angular | React | PHP | Docker | MySQL | Magento | Git | Scrum | Linux | CLI ** i like to know about lot of things.
+- 💬 Ask me about **JavaScript | TypeScript | Angular | React | PHP | Docker | MySQL | Magento | Git | Scrum | Linux | CLI** i like to know about lot of things.
 
-- 📫 How to reach me **danielciciliani@gmail.com**
+- 📫 You can contact me at **danielciciliani@gmail.com**
 
 - ⚡ Fun fact **We can talk about basketball & F1 if you want**
 
