@@ -12,7 +12,7 @@ interfaces.**
 
 - 💬 Ask me about **JavaScript | React | Next.js | TypeScript | Angular | Tailwind | Sass | Motion | GSAP | Docker | Git | Rest API | Vite | Vitest | Jest | AII** i like to know about lot of things.
 
-- 🖥️ You can see more on my website **<a href="https://www.danielciciliani.com">danielciciliani.com</a>**
+- 🖥️ You can see more on my website **<a href="https://www.danielciciliani.com" target="_blank">danielciciliani.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
