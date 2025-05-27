@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Daniel Ciciliani</h1>
 <h3 align="center">A Frontend Developer. Fan of tech in all its ways.</h3> 
-<h3 align="center">Angular | React</h3> 
+<h3 align="center">React | Angular</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielciciliani&label=Profile%20views&color=0e75b6&style=flat" alt="danielciciliani" /> </p>
 
-- 👨🏻‍💻 I’m currently working on **frontend projects as a Freelancer**
+- 👨🏻‍💻 I’m a frontend developer with **+4 years of experience**, plus a couple
+years freelancing. I’ve done some work in backend, but I always go
+for frontend. **I believe good UI and UX are game-changers.**
+These days, **I’m all about building fast, responsive, and smooth
+interfaces.**
 
-- 🧩 I’m interested in Frontend Technologies like **Angular & React**
+- 💬 Ask me about **JavaScript | React | Next.js | TypeScript | Angular | Tailwind | Sass | Motion | GSAP | Docker | Git | Rest API | Vite | Vitest | Jest | AII** i like to know about lot of things.
 
-- 🔭 I’m looking forward to collaborate on **incredible projects building products**
-
-- 💬 Ask me about **JavaScript | TypeScript | Angular | React | PHP | Docker | MySQL | Magento | Git | Scrum | Linux | CLI** i like to know about lot of things.
-
-- 📫 You can contact me at **danielciciliani@gmail.com**
-
-- ⚡ Fun fact **We can talk about basketball & F1 if you want**
+- 📫 You can contact me at **danielciciliani.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
