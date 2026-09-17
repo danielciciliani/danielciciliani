@@ -10,7 +10,8 @@ for frontend. **I believe good UI and UX are game-changers.**
 These days, **I’m all about building fast, responsive, and smooth
 interfaces.**
 
-- 💬 Ask me about **JavaScript | React | Next.js | TypeScript | Angular | Tailwind | Sass | Motion | GSAP | Docker | Git | Rest API | Vite | Vitest | Jest | AII** i like to know about lot of things.
+- 💬 Ask me about **JavaScript TypeScript | React | Next.js | JavaScript | Microfrontend Module Federation | Domain-Driven Design (DDD) | Clean Architecture |
+Vite | Rest API | Tailwind | Figma | Motion | Vitest | Type-checking | Git | Docker | GitHub Workflows | CI/CD**. I like to know about lot of things.
 
 - 🖥️ You can see more on my website **<a href="https://www.danielciciliani.com" target="_blank">danielciciliani.com</a>**
 
