@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielciciliani&label=Profile%20views&color=0e75b6&style=flat" alt="danielciciliani" /> </p>
 
-- 👨🏻‍💻 I’m a frontend developer with **+4 years of experience**, plus a couple
+- 👨🏻‍💻 I’m a frontend developer with **+5 years of experience**, plus a couple
 years freelancing. I’ve done some work in backend, but I always go
 for frontend. **I believe good UI and UX are game-changers.**
 These days, **I’m all about building fast, responsive, and smooth
